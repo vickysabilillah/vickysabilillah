@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [Vicky Sabilillah](https://www.youtube.com/channel/UCD7-saxR5Y-mpr-Gv06q5PA) 👋
+# Hi there, I'm Viki - aku [Vicky Sabilillah](https://www.youtube.com/channel/UCD7-saxR5Y-mpr-Gv06q5PA) 👋
 ## About me:
 - 🔭 I’m currently working at [Indonet](https://indonet.co.id/id/)
 - 🌱 I’m currently learning Python and Javascript
